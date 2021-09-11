@@ -6,7 +6,10 @@ namespace Examen_t1_calidad
 {
     public class Jugador
     {
-        public string cartas {get; set; }
-        public string nombre { get; set; }
+        public string cartas1 {get; set; }
+        public string cartas2 { get; set; }
+        public string cartas3 { get; set; }
+        public string cartas4 { get; set; }
+        public string cartas5 { get; set; }
 }
 }
