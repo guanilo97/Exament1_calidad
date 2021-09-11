@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.exe
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.deps.json
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.runtimeconfig.json
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.dll
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\bin\Debug\netcoreapp3.1\Examen_t1_calidad.pdb
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.AssemblyInfo.cs
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.dll
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.pdb
+C:\Users\HP\source\repos\Examen_t1_calidad\Examen_t1_calidad\obj\Debug\netcoreapp3.1\Examen_t1_calidad.genruntimeconfig.cache

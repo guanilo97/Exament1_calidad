@@ -4,7 +4,13 @@ using System.Text;
 
 namespace Examen_t1_calidad
 {
-    class Poker
+    public class Poker
     {
+        public Jugador jugador1;
+        public Jugador jugador2;
+        public Jugador Ganador()
+        {
+            return jugador1;
+        }
     }
 }
